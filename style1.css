@@ -1,0 +1,78 @@
+html,
+body {
+    height: 100%;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* NAV */
+.nav-link {
+    color: rgb(0, 102, 255);
+}
+
+/* SPANS */
+.bold-blue {
+    color: rgb(0, 102, 255);
+}
+
+
+.white {
+    color: white;
+}
+
+/* LOGO */
+#logo {
+    margin: 0;
+/*  margin:100%; */
+    
+}
+
+.welcome-message {
+    padding: 70px 0;
+    /*  margin:100%; */
+    
+}
+
+.welcome {
+    font-size: 24px;
+    text-align: center;
+    /*  margin:100%; */
+
+}
+
+.welcome2 {
+    font-size: 20px;
+    text-align: center;
+    /*  margin:100%; */
+}
+
+/* MEDIA QUERIES 
+@media only screen and (max-width: 1084px){
+    #logo {
+    margin: 0;
+  */  
+    
+}
+
+.welcome-message {
+    padding: 20px 0;
+    max-width: 450px;
+/*  margin:100%; */
+}
+
+.welcome {
+    font-size: 24px;
+    text-align: center;
+    
+
+}
+
+.welcome2 {
+    font-size: 20px;
+    text-align: center;
+    /*  margin:100%; */
+}
+.logo-image {
+    min-width: 585px;
+}
+
